@@ -1,7 +1,13 @@
-- 👋 Hi, I'm Aleksandr.
-- 👀 I'm interested in programming and computer networks.
-- 🌱 I'm currently learning .net development.
-- 📫 How to contact me: aleksandr@spy-bat.ru
+## 📖 About Me
+
+Hi there! I'm **Aleksandr** 👋  
+I'm passionate about software development and currently growing as a .NET backend developer. Here's a bit about me:
+
+- 💻 Interested in backend engineering, computer networks, and system architecture  
+- 🧠 Continuously learning: focusing now on **ASP.NET Core**, **EF Core**, and **Clean Architecture**
+- 🔧 Enjoy analyzing projects, improving structure, and writing clean, maintainable code  
+- ✉️ Reach out: [aleksandr@spy-bat.ru](mailto:aleksandr@spy-bat.ru)
+
 
 <!---
 Spy39/Spy39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
